@@ -1,0 +1,30 @@
+# Git
+.git
+.gitignore
+
+# Gradle
+.gradle
+**/.gradle
+
+# Build outputs (VERY IMPORTANT)
+build/
+**/build/
+
+# IDE files
+.idea
+.vscode
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Node (if ever used)
+node_modules
+
+# Docker (optional)
+Dockerfile
+.dockerignore
